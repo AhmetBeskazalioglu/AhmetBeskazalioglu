@@ -9,9 +9,7 @@
   
 - 🌱 I’m currently learning Cucumber.
 
-- 📫 How to reach me -**ahmetbeskazalioglu@icloud.com**
-  <br>
-                     -**ahmetbeskazalioglu@gmail.com**
+- 📫 How to reach me **ahmetbeskazalioglu@icloud.com** and **ahmetbeskazalioglu@gmail.com**
 <br>
   <hr>
   <h4 align="center">🎯 About Me 🎯</h4>
