@@ -4,7 +4,7 @@
 <br>
 
 
-- 📝 I regularly write articles on [https://medium.com/@ahmetbeskazalioglu](https://medium.com/@ahmetbeskazalioglu)
+- 📝 I write articles on [https://medium.com/@ahmetbeskazalioglu](https://medium.com/@ahmetbeskazalioglu)
   
 - 🌱 I’m currently learning Cucumber.
 <br>
