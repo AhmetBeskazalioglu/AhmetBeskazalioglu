@@ -2,7 +2,7 @@
 <h3 align="center">A disciplined and hardworking qa software tester from Turkey.</h3>
 
 <br>
-
+<hr>
 
 - 📝 I regularly write articles on [https://medium.com/@ahmetbeskazalioglu](https://medium.com/@ahmetbeskazalioglu)
   
@@ -16,7 +16,7 @@
       <p align="left">I value communication as it helps us overcome obstacles, embrace innovations, and excel in processes. As a trainer, my written and verbal communication skills are professional. It is exciting for me to take part in new projects and produce solutions compatible with developing technologies. </p>
       <p align="left">I would like to state that I am looking for a team where I can contribute to my professional development. I look forward to collaborating on new projects.</p>
 
-
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
