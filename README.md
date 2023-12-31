@@ -34,7 +34,7 @@
 ![snake gif](https://github.com/AhmetBeskazalioglu/AhmetBeskazalioglu/blob/output/github-contribution-grid-snake.gif)
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmetBeskazalioglu/AhmetBeskazalioglu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmetBeskazalioglu/AhmetBeskazalioglu/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AhmetBeskazalioglu/AhmetBeskazalioglu/output/github-contribution-grid-snake.svg">
+  <source align="center" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmetBeskazalioglu/AhmetBeskazalioglu/output/github-contribution-grid-snake-dark.svg">
+  <source align="center" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmetBeskazalioglu/AhmetBeskazalioglu/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AhmetBeskazalioglu/AhmetBeskazalioglu/output/github-contribution-grid-snake.svg">
 </picture>
