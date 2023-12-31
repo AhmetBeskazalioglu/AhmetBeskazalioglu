@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 <h3 align="center">A disciplined and hardworking qa software tester from Turkey.</h3>
 
+
+
+
 - 📝 I regularly write articles on [https://medium.com/@ahmetbeskazalioglu](https://medium.com/@ahmetbeskazalioglu)
   
 - 🌱 I’m currently learning Cucumber.
