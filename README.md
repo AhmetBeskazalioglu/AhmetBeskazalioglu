@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
-<h3 align="center">A disciplined and hardworking qa software tester from Turkey.</h3>
+<h3 align="center">A disciplined and hardworking QA software tester from Turkey.</h3>
 <hr>
 <br>
 
