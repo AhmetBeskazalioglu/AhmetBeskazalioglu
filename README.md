@@ -8,6 +8,9 @@
 - 📝 I write articles on [https://medium.com/@ahmetbeskazalioglu](https://medium.com/@ahmetbeskazalioglu)
   
 - 🌱 I’m currently learning Cucumber.
+
+- 📫 How to reach me **ahmetbeskazalioglu@icloud.com**
+                     **ahmetbeskazalioglu@gmail.com**
 <br>
   <hr>
   <h4 align="center">🎯 About Me 🎯</h4>
