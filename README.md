@@ -41,7 +41,7 @@
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png" width="40" height="40"/> </a>
 <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="" width="40" height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="" width="40" height="40"/> </a>
+  <a href="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/cucumber/cucumber-plain.svg" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="" width="40" height="40"/> </a>
