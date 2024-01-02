@@ -40,12 +40,9 @@
   <a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/4a2479d9ae91eca5e85bd457c0e4439279b0d95bed87b5c9c83f035835caa033/68747470733a2f2f626c6f67732e70657266696369656e742e636f6d2f66696c65732f323031342f30382f546573744e472e706e67" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png" width="40" height="40"/> </a>
 <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="" width="40" height="40"/> </a>
+<a href="https://www.api.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/d20cc933e36a9701af6df38f86c414c55cd626e481ab24632b1a032e482413ba/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476351467073774b716c776578315574594f48543663574956734a3364516645675f5f6c465126757371703d434155" width="40" height="40"/> </a>
   <a href="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/cucumber/cucumber-plain.svg" width="40" height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="" width="40" height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="" width="40" height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="" width="40" height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="" width="40" height="40"/> </a>
+  
 </p>
 <hr>
 
