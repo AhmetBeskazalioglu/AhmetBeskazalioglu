@@ -14,7 +14,13 @@
 - 🌱 I’m currently learning Cucumber.
 
 - 📫 How to reach me **ahmetbeskazalioglu@icloud.com** and **ahmetbeskazalioglu@gmail.com**
-<br>
+  <br>
+ <div align="center">
+  <img height="200" src="https://www.bing.com/th/id/OGC.c0d1b11e54c2b07f7353dd160e8ba80d?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1059583%2fscreenshots%2f4171367%2fcoding-freak.gif&ehk=lm8USaegpIM08X3NbwFPQMr7SjSKU%2f%2faFj7rYY0odvA%3d"  />
+</div>
+
+###
+
   <hr>
   <h4 align="center">🎯 About Me 🎯</h4>
   <br>
@@ -23,16 +29,41 @@
       <p align="left">I value communication as it helps us overcome obstacles, embrace innovations, and excel in processes. As a trainer, my written and verbal communication skills are professional. It is exciting for me to take part in new projects and produce solutions compatible with developing technologies. </p>
       <p align="left">I would like to state that I am looking for a team where I can contribute to my professional development. I look forward to collaborating on new projects.</p>
 <hr>
+
+###
+
+<img align="right" height="200" src="https://www.bing.com/th/id/OGC.9f38155a4b5654529f9c21a12b3411f3?pid=1.7&rurl=https%3a%2f%2fmedia1.tenor.com%2fimages%2f9f38155a4b5654529f9c21a12b3411f3%2ftenor.gif%3fitemid%3d15623574&ehk=i9uBekgW%2fntEXb6cJ0tVVDch7Mvg6%2fRjH%2ff%2fwky6vks%3d"  />
+
+<br>
+<div align="center">
+  <h3>Connect With Me:</h3>
+  <a href="https://www.linkedin.com/in/ahmetbeskazalioglu/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@ahmetbeskazalioglu" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
+  <a href="https://twitter.com/ahmetbeskazali" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/ahmetbeskazalioglu/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto:ahmetbeskazalioglu@icloud.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="mailto:ahmetbeskazalioglu@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  
+
+</div>
+
+###
 <br>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/ahmetbeskazali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmetbeskazali" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmetbeskazalioglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmetbeskazalioglu" height="30" width="40" /></a>
-<a href="https://medium.com/@ahmetbeskazalioglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahmetbeskazalioglu" height="30" width="40" /></a>  
+
   <hr>
-</p>
-<br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -58,4 +89,19 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmetBeskazalioglu/AhmetBeskazalioglu/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AhmetBeskazalioglu/AhmetBeskazalioglu/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmetBeskazalioglu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmetBeskazalioglu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AhmetBeskazalioglu/count.svg?"  />
+</div>
+
 
