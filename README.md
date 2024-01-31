@@ -11,7 +11,7 @@
 
 - 📝 I write articles on [https://medium.com/@ahmetbeskazalioglu](https://medium.com/@ahmetbeskazalioglu)
   
-- 🌱 I’m currently learning Cucumber.
+- 🌱 I’m currently learning RobotFramework.
 
 - 📫 How to reach me **ahmetbeskazalioglu@icloud.com** and **ahmetbeskazalioglu@gmail.com**
   <br>
@@ -24,10 +24,18 @@
   <hr>
   <h4 align="center">🎯 About Me 🎯</h4>
   <br>
-    <p align="left">Hello, I joined a bootcamp program dedicated to software testing and went through an intensive 8-month course. I previously learned Python and have experience in pulling data from Excel and testing using VBA. I have also realized automation projects with UI Path and I have certificates in this field. </p>
-      <p align="left">In addition to my IT experience, I have worked in various sectors and gained team management experience. I hold leadership and coaching certificates and have conducted trainings for both children and adults. I am a team-oriented professional who is open to innovations and can adapt quickly. I continuously update my technical knowledge and strive for excellence in testing processes. </p>
-      <p align="left">I value communication as it helps us overcome obstacles, embrace innovations, and excel in processes. As a trainer, my written and verbal communication skills are professional. It is exciting for me to take part in new projects and produce solutions compatible with developing technologies. </p>
-      <p align="left">I would like to state that I am looking for a team where I can contribute to my professional development. I look forward to collaborating on new projects.</p>
+    <p align="left">Greetings! </p>
+      <p align="left">
+I'm an experienced Software Tester based in Izmir, Turkey. I have a wealth of experience in dynamic testing methodologies, manual testing and automation scripting with a passion for ensuring seamless application functionality.</p>
+      <p align="left">🔍 Testing Expertise:
+My journey in Quality Assurance started long before the pandemic began and I have been actively involved in the field, honing my skills as a QA Engineer. Over the past year, I have dedicated significant time to intensive testing training, staying at the forefront of industry best practices. </p>
+      <p align="left">🤖 Test Automation Enthusiast:
+My passion for test automation extends beyond my job. I regularly write articles about test automation on Medium, sharing my experiences and insights. Additionally, I volunteer for various projects to contribute to the test automation community. </p>
+      <p align="left">💡 Specialized Skills:
+I specialize in writing rigorous test scripts, debugging code, and executing automated tests, and I am an expert in Java software. My skills span manual testing, test planning, cross-platform testing, debugging, integration testing, user acceptance testing, and requirements analysis.</p>
+ <p align="left">🛠️ Professional Background:
+In my most recent role at Nariot IOT Information Systems, I contributed as a Business Development Specialist by preparing plans for sales management and fostering positive customer relationships. Previously, as a Portfolio Manager at Turkcell Global Bilgi, I managed customer calls, implemented rebalancing strategies and presented investment proposals.</p>
+<p align="left">Let's connect and explore opportunities to improve software quality together. Feel free to discuss about testing methodologies, collaboration or anything QA related 🚀</p>
 <hr>
 
 ###
