@@ -2,7 +2,7 @@
   <img src="https://camo.githubusercontent.com/0ab3ccd947eb4db17d1c8ea89c6ba3e7042b1d7dc5e7bb893339937670c6ab8f/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966" alt="">
 </p>
 
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQGNxjcChG5eIw/profile-displaybackgroundimage-shrink_350_1400/0/1702868131173?e=1709769600&v=beta&t=z3VF5JOltLZUyMWDjEggySddhFbxUXqgyXaAkTOxBV4)
+
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 <h3 align="center">A disciplined and hardworking QA software tester from Turkey.</h3>
 <hr>
