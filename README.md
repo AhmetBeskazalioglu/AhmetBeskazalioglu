@@ -11,7 +11,7 @@
 
 - 📝 I write articles on [https://medium.com/@ahmetbeskazalioglu](https://medium.com/@ahmetbeskazalioglu)
   
-- 🌱 I’m currently learning RobotFramework.
+- 🌱 I’m currently working on Java & Spring Framework(Boot,Data,Cloud,Security,Rest) & Quarkus Framework & Google Cloud & AWS.
 
 - 📫 How to reach me **ahmetbeskazalioglu@icloud.com** and **ahmetbeskazalioglu@gmail.com**
   <br>
