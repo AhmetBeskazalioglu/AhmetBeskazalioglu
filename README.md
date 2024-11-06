@@ -2,18 +2,16 @@
   <img src="https://camo.githubusercontent.com/0ab3ccd947eb4db17d1c8ea89c6ba3e7042b1d7dc5e7bb893339937670c6ab8f/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966" alt="">
 </p>
 
-
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
-<h3 align="center">A disciplined and hardworking QA software tester from Turkey.</h3>
+<h3 align="center">An experienced Java Backend Developer from Turkey</h3>
 <hr>
 <br>
 
+- 📝 I write articles on [Medium](https://medium.com/@ahmetbeskazalioglu) about backend development, Java, and software engineering topics.
 
-- 📝 I write articles on [https://medium.com/@ahmetbeskazalioglu](https://medium.com/@ahmetbeskazalioglu)
-  
-- 🌱 I’m currently working on Java & Spring Framework(Boot,Data,Cloud,Security,Rest) & Quarkus Framework & Google Cloud & AWS.
+- 🌱 I’m currently working with Java & Spring Framework (Boot, Data, Cloud, Security, REST) and expanding my skills in Docker, Kubernetes, and cloud services like AWS and Google Cloud.
 
-- 📫 How to reach me **ahmetbeskazalioglu@icloud.com** and **ahmetbeskazalioglu@gmail.com**
+- 📫 How to reach me: **ahmetbeskazalioglu@icloud.com** or **ahmetbeskazalioglu@gmail.com**
   <br>
  <div align="center">
   <img height="200" src="https://www.bing.com/th/id/OGC.c0d1b11e54c2b07f7353dd160e8ba80d?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1059583%2fscreenshots%2f4171367%2fcoding-freak.gif&ehk=lm8USaegpIM08X3NbwFPQMr7SjSKU%2f%2faFj7rYY0odvA%3d"  />
@@ -21,21 +19,22 @@
 
 ###
 
-  <hr>
-  <h4 align="center">🎯 About Me 🎯</h4>
-  <br>
-    <p align="left">Greetings! </p>
-      <p align="left">
-I'm an experienced Software Tester based in Izmir, Turkey. I have a wealth of experience in dynamic testing methodologies, manual testing and automation scripting with a passion for ensuring seamless application functionality.</p>
-      <p align="left">🔍 Testing Expertise:
-My journey in Quality Assurance started long before the pandemic began and I have been actively involved in the field, honing my skills as a QA Engineer. Over the past year, I have dedicated significant time to intensive testing training, staying at the forefront of industry best practices. </p>
-      <p align="left">🤖 Test Automation Enthusiast:
-My passion for test automation extends beyond my job. I regularly write articles about test automation on Medium, sharing my experiences and insights. Additionally, I volunteer for various projects to contribute to the test automation community. </p>
-      <p align="left">💡 Specialized Skills:
-I specialize in writing rigorous test scripts, debugging code, and executing automated tests, and I am an expert in Java software. My skills span manual testing, test planning, cross-platform testing, debugging, integration testing, user acceptance testing, and requirements analysis.</p>
- <p align="left">🛠️ Professional Background:
-In my most recent role at Nariot IOT Information Systems, I contributed as a Business Development Specialist by preparing plans for sales management and fostering positive customer relationships. Previously, as a Portfolio Manager at Turkcell Global Bilgi, I managed customer calls, implemented rebalancing strategies and presented investment proposals.</p>
-<p align="left">Let's connect and explore opportunities to improve software quality together. Feel free to discuss about testing methodologies, collaboration or anything QA related 🚀</p>
+<hr>
+<h4 align="center">🎯 About Me 🎯</h4>
+<br>
+<p align="left">Greetings!</p>
+<p align="left">I'm an experienced Java Backend Developer based in Izmir, Turkey, with a strong focus on building scalable and secure applications. I have extensive experience in Java development and backend technologies, including Spring Boot, Hibernate, and RESTful API design.</p>
+
+<p align="left">🔍 Development Expertise:
+My journey in backend development spans multiple years of experience in building and optimizing applications. I have been involved in various projects, focusing on implementing robust microservices, enhancing database efficiency, and applying industry best practices.</p>
+
+<p align="left">🤖 Passion for Java:
+Beyond my professional work, I actively contribute to the tech community by writing articles on Medium and participating in open-source projects. This helps me stay updated with the latest trends and share my knowledge.</p>
+
+<p align="left">💡 Key Skills:
+Proficient in Java, Spring Boot, Spring Data JPA/Hibernate, Spring Security, and RESTful API development. I am also skilled in containerization with Docker and deployment with Kubernetes. My expertise includes database management using PostgreSQL and MySQL, ensuring secure and high-performance applications.</p>
+
+<p align="left">Let's connect and discuss Java development, microservices architecture, and backend optimization. I'm always open to new opportunities to innovate and collaborate! 🚀</p>
 <hr>
 
 ###
@@ -63,33 +62,41 @@ In my most recent role at Nariot IOT Information Systems, I contributed as a Bus
   <a href="mailto:ahmetbeskazalioglu@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  
-
 </div>
 
 ###
 <br>
 
+<hr>
 
-  <hr>
+
+
+
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
-  <a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/4a2479d9ae91eca5e85bd457c0e4439279b0d95bed87b5c9c83f035835caa033/68747470733a2f2f626c6f67732e70657266696369656e742e636f6d2f66696c65732f323031342f30382f546573744e472e706e67" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png" width="40" height="40"/> </a>
-<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> </a>
-<a href="https://www.api.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/d20cc933e36a9701af6df38f86c414c55cd626e481ab24632b1a032e482413ba/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476351467073774b716c776578315574594f48543663574956734a3364516645675f5f6c465126757371703d434155" width="40" height="40"/> </a>
-  <a href="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/cucumber/cucumber-plain.svg" width="40" height="40"/> </a>
-  <a href="https://www.jetbrains.com/idea/features/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/e1b3b877eedd5251f7cc619bdbb288791774fe634581d896723e9c96d4f40057/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476351616c4b4677564464304837587838486171574262556d445264726778556f696347425a433065497a54737777375365762d7953584a33696e395564763252394352336c6f26757371703d434155" width="40" height="40"/> </a>
-   <a href="https://github.com/appium/appium-inspector" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/appium/appium-inspector/main/docs/icon.png" width="40" height="40"/> </a>
-    <a href="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/raw/master/icons/jira/jira-original-wordmark.svg" width="40" height="40"/> </a>
-     <a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira?tab=overview&hosting=cloud" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/65618195?s=200&v=4" width="40" height="40"/> </a>
-      <a href="https://user-images.githubusercontent.com/81612480/170158125-06d02884-224c-49a7-a455-8877279389f2.jpg" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/81612480/170158125-06d02884-224c-49a7-a455-8877279389f2.jpg" width="40" height="40"/> </a>
-       <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/a13ca5b988ada41839ebe4f88455e63419a1b56fcb5eda207794cd1649a61d2c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" width="40" height="40"/> </a>
-  
-  
+<p align="center">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/> </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" alt="intellij" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="maven" width="40" height="40"/> </a>
+  <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" alt="gradle" width="40" height="40"/> </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
+  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="junit" width="40" height="40"/> </a>
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> </a>
+  <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="40" height="40"/> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" width="40" height="40"/> </a>
+  <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="google cloud" width="40" height="40"/> </a>
 </p>
+
 <hr>
 
 <picture style="display: block; margin-left: auto; margin-right: auto;">
