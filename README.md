@@ -22,8 +22,6 @@
   <img height="200" src="https://www.bing.com/th/id/OGC.c0d1b11e54c2b07f7353dd160e8ba80d?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1059583%2fscreenshots%2f4171367%2fcoding-freak.gif&ehk=lm8USaegpIM08X3NbwFPQMr7SjSKU%2f%2faFj7rYY0odvA%3d" />
 </div>
 
-###
-
 <hr>
 <h4 align="center">🎯 About Me 🎯</h4>
 <br>
@@ -41,8 +39,6 @@ Java, Spring Boot, Spring Data JPA/Hibernate, Spring Security, RESTful API devel
 
 <p align="left">Let’s connect and discuss backend development, microservices, and secure architecture! 🚀</p>
 <hr>
-
-###
 
 <img align="right" height="200" src="https://www.bing.com/th/id/OGC.9f38155a4b5654529f9c21a12b3411f3?pid=1.7&rurl=https%3a%2f%2fmedia1.tenor.com%2fimages%2f9f38155a4b5654529f9c21a12b3411f3%2ftenor.gif%3fitemid%3d15623574&ehk=i9uBekgW%2fntEXb6cJ0tVVDch7Mvg6%2fRjH%2ff%2fwky6vks%3d" />
 
@@ -67,7 +63,7 @@ Java, Spring Boot, Spring Data JPA/Hibernate, Spring Security, RESTful API devel
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
-###
+
 <hr>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -121,9 +117,6 @@ Java, Spring Boot, Spring Data JPA/Hibernate, Spring Security, RESTful API devel
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" alt="intellij" width="40" height="40"/> </a>
 </p>
 
-
-<hr>
-
 <hr>
 
 <picture style="display: block; margin-left: auto; margin-right: auto;">
@@ -135,17 +128,14 @@ Java, Spring Boot, Spring Data JPA/Hibernate, Spring Security, RESTful API devel
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmetBeskazalioglu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmetBeskazalioglu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=AhmetBeskazalioglu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=AhmetBeskazalioglu&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmetBeskazalioglu&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmetBeskazalioglu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmetBeskazalioglu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=AhmetBeskazalioglu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=AhmetBeskazalioglu&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmetBeskazalioglu&radius=16&theme=react&area=true" height="300" alt="activity-graph graph" />
 </div>
 
-###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/AhmetBeskazalioglu/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/AhmetBeskazalioglu/count.svg?" alt="profile views counter" />
 </div>
-
-###
