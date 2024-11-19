@@ -63,7 +63,7 @@ Java, Spring Boot, Spring Data JPA/Hibernate, Spring Security, RESTful API devel
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
-
+<br>
 <hr>
 
 <h3 align="center">Languages and Tools:</h3>
