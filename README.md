@@ -9,7 +9,7 @@
 
 - 📝 I write articles on [Medium](https://medium.com/@ahmetbeskazalioglu) about backend development, Java, and software engineering topics.
 
-- 🌱 I’m currently working with Java & Spring Framework (Boot, Data, Cloud, Security, REST) and expanding my skills in Docker, Kubernetes, and cloud services like AWS and Google Cloud.
+- 🌱 I’m currently learning **React** to expand my frontend skills, while continuing to work with **Java & Spring Framework** (Boot, Data, Cloud, Security, REST).
 
 - 📫 How to reach me:
   - **ahmet@beskazalioglu.com**
