@@ -8,23 +8,16 @@
 
 <br/>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="60%">
-      <h2>🧑‍💻 About Me</h2>
-      <p>I'm a Java Backend Developer based in Izmir, Turkey, focusing on building scalable, secure, and robust applications. My expertise lies in Java, Spring Boot, Hibernate, and RESTful API design. I love optimizing databases and designing microservices architectures.</p>
-      <ul>
-        <li>🌱 Currently expanding my frontend skills by learning <b>React</b>.</li>
-        <li>📝 I write tech articles on <a href="https://medium.com/@ahmetbeskazalioglu">Medium</a>.</li>
-        <li>💡 Passionate about clean code, system design, and open-source.</li>
-        <li>📫 Reach me at: <b>ahmetbeskazalioglu@gmail.com</b></li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="80%" alt="Coding Freak" style="border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
+<h2 align="left">🧑‍💻 About Me</h2>
+<img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300" alt="Coding Freak" style="border-radius: 10px;" />
+<p>I'm a Java Backend Developer based in Izmir, Turkey, focusing on building scalable, secure, and robust applications. My expertise lies in Java, Spring Boot, Hibernate, and RESTful API design. I love optimizing databases and designing microservices architectures.</p>
+<ul>
+  <li>🌱 Currently expanding my frontend skills by learning <b>React</b>.</li>
+  <li>📝 I write tech articles on <a href="https://medium.com/@ahmetbeskazalioglu">Medium</a>.</li>
+  <li>💡 Passionate about clean code, system design, and open-source.</li>
+  <li>📫 Reach me at: <b>ahmetbeskazalioglu@gmail.com</b></li>
+</ul>
+<br clear="both"/>
 
 <br/>
 
