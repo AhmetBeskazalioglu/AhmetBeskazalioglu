@@ -1,120 +1,112 @@
-<p align="center">
-  <img src="https://camo.githubusercontent.com/0ab3ccd947eb4db17d1c8ea89c6ba3e7042b1d7dc5e7bb893339937670c6ab8f/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966" alt="">
-</p>
-
-<h1 align="center">Hi 👋, I'm Ahmet</h1>
-<h3 align="center">A passionate Java Backend Developer from Turkey</h3>
-<hr>
-<br>
-
-- 📝 I write articles on [Medium](https://medium.com/@ahmetbeskazalioglu) about backend development, Java, and software engineering topics.
-
-- 🌱 I’m currently learning **React** to expand my frontend skills, while continuing to work with **Java & Spring Framework** (Boot, Data, Cloud, Security, REST).
-
-- 📫 How to reach me:
-  - **ahmet@beskazalioglu.com**
-  - **ahmet@beskazalioglu.com.tr**
-  - **ahmetbeskazalioglu@icloud.com**
-  - **ahmetbeskazalioglu@gmail.com**
-<br>
-
 <div align="center">
-  <img height="200" src="https://www.bing.com/th/id/OGC.c0d1b11e54c2b07f7353dd160e8ba80d?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1059583%2fscreenshots%2f4171367%2fcoding-freak.gif&ehk=lm8USaegpIM08X3NbwFPQMr7SjSKU%2f%2faFj7rYY0odvA%3d" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello!%20I'm%20Ahmet%20👋&fontSize=50&fontAlignY=35&desc=Passionate%20Java%20Backend%20Developer&descAlignY=55&descAlign=50" />
 </div>
 
-<hr>
-<h4 align="center">🎯 About Me 🎯</h4>
-<br>
-<p align="left">Greetings!</p>
-<p align="left">I'm a Java Backend Developer based in Izmir, Turkey, focusing on building scalable and secure applications. My expertise includes Java development, Spring Boot, Hibernate, and RESTful API design. I am also proficient in database optimization and microservices architecture.</p>
-
-<p align="left">🔍 <strong>Development Expertise:</strong>
-I have contributed to multiple projects, implementing robust microservices, enhancing database performance, and ensuring secure and efficient systems. My hands-on experience spans across Spring Security, Docker, and Kubernetes.</p>
-
-<p align="left">🤖 <strong>Passion for Java:</strong>
-I actively contribute to the tech community by writing articles on Medium and collaborating on open-source projects. This allows me to stay updated with the latest trends and share insights.</p>
-
-<p align="left">💡 <strong>Key Skills:</strong>
-Java, Spring Boot, Spring Data JPA/Hibernate, Spring Security, RESTful API development, PostgreSQL, MySQL, Docker, Kubernetes, and cloud solutions like AWS and Google Cloud.</p>
-
-<p align="left">Let’s connect and discuss backend development, microservices, and secure architecture! 🚀</p>
-<hr>
-
-<img align="right" height="200" src="https://www.bing.com/th/id/OGC.9f38155a4b5654529f9c21a12b3411f3?pid=1.7&rurl=https%3a%2f%2fmedia1.tenor.com%2fimages%2f9f38155a4b5654529f9c21a12b3411f3%2ftenor.gif%3fitemid%3d15623574&ehk=i9uBekgW%2fntEXb6cJ0tVVDch7Mvg6%2fRjH%2ff%2fwky6vks%3d" />
-
 <div align="center">
-  <h3>Connect With Me:</h3>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=278BEA&center=true&vCenter=true&width=500&lines=Backend+Developer+%40+Turkey;Java+%26+Spring+Boot+Enthusiast;Building+Scalable+Microservices;Continuously+Learning+%26+Sharing" alt="Typing SVG" /></a>
+</div>
+
+<br/>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="60%">
+      <h2>🧑‍💻 About Me</h2>
+      <p>I'm a Java Backend Developer based in Izmir, Turkey, focusing on building scalable, secure, and robust applications. My expertise lies in Java, Spring Boot, Hibernate, and RESTful API design. I love optimizing databases and designing microservices architectures.</p>
+      <ul>
+        <li>🌱 Currently expanding my frontend skills by learning <b>React</b>.</li>
+        <li>📝 I write tech articles on <a href="https://medium.com/@ahmetbeskazalioglu">Medium</a>.</li>
+        <li>💡 Passionate about clean code, system design, and open-source.</li>
+        <li>📫 Reach me at: <b>ahmetbeskazalioglu@gmail.com</b></li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="80%" alt="Coding Freak" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h2 align="center">🤝 Let's Connect</h2>
+<div align="center">
   <a href="https://www.linkedin.com/in/ahmetbeskazalioglu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://medium.com/@ahmetbeskazalioglu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="https://twitter.com/ahmetbeskazali" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.instagram.com/ahmetbeskazalioglu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-  <a href="mailto:ahmetbeskazalioglu@icloud.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo" />
-  </a>
-  <a href="mailto:ahmetbeskazalioglu@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
-<br>
-<hr>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/> </a>
-  <a href="https://spring.io/projects/spring-cloud" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring cloud" width="40" height="40"/> </a>
-  <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a>
-  <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/> </a>
-  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="google cloud" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> </a>
-  <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="40" height="40"/> </a>
-  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="maven" width="40" height="40"/> </a>
-  <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" alt="gradle" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://oauth.net/2/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/oauth.svg" alt="oauth2" width="40" height="40"/> </a>
-  <a href="https://www.keycloak.org/" target="_blank" rel="noreferrer"> <img src="https://www.keycloak.org/resources/images/keycloak_icon_512px.svg" alt="keycloak" width="40" height="40"/> </a>
-  <a href="https://www.elastic.co/what-is/elk-stack" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elk stack" width="40" height="40"/> </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" alt="intellij" width="40" height="40"/> </a>
-</p>
+<br/>
 
-<hr>
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
-<picture style="display: block; margin-left: auto; margin-right: auto;">
+<div align="center">
+  <b>Languages</b><br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br><br>
+
+  <b>Backend & Frameworks</b><br>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <br><br>
+
+  <b>Databases & Caching</b><br>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <br><br>
+
+  <b>DevOps, Cloud & Tools</b><br>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white" />
+</div>
+
+<br/>
+
+<h2 align="center">📊 GitHub Stats & Contributions</h2>
+
+<picture style="display: block; margin: 0 auto; text-align: center;">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmetBeskazalioglu/AhmetBeskazalioglu/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmetBeskazalioglu/AhmetBeskazalioglu/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AhmetBeskazalioglu/AhmetBeskazalioglu/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br clear="both">
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmetBeskazalioglu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmetBeskazalioglu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=AhmetBeskazalioglu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=AhmetBeskazalioglu&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmetBeskazalioglu&radius=16&theme=react&area=true" height="300" alt="activity-graph graph" />
+  <a href="https://github.com/AhmetBeskazalioglu">
+    <img src="https://github-readme-stats.vercel.app/api?username=AhmetBeskazalioglu&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="150" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/AhmetBeskazalioglu">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetBeskazalioglu&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="150" alt="Top Languages" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AhmetBeskazalioglu&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="150" alt="GitHub Streak" />
 </div>
 
+<br/>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/AhmetBeskazalioglu/count.svg?" alt="profile views counter" />
+  <img src="https://profile-counter.glitch.me/AhmetBeskazalioglu/count.svg?" alt="Profile Views" />
 </div>
