@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Ahmet%20Beşkazalıoğlu&fontSize=60&fontAlignY=35&desc=Backend%20Engineer%20&%20Microservices%20Architect&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Ahmet%20Beşkazalıoğlu&fontSize=60&fontAlignY=35&desc=Java%20Backend%20Developer%20|%20Software%20Engineer%20|%20MSc%20Computer%20Engineer%20Student&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 <div align="right">
@@ -8,7 +8,7 @@
 
 <h2 align="left">Hi there! 👋</h2>
 
-I'm a **Java Backend Developer** based in İzmir, Turkey. I focus on building highly scalable, secure, and robust applications. I'm passionate about clean architecture, deeply involved in database optimization, and I love designing complex microservices systems from the ground up.
+I'm a **Java Backend Developer**, **Software Engineer** at **Aglontech**, and an **MSc Computer Engineer Student** based in İzmir, Turkey. I focus on building highly scalable, secure, and robust applications. I'm passionate about clean architecture, deeply involved in database optimization, and I love designing complex microservices systems from the ground up.
 
 ### 🔭 Current Focus
 - 💼 Engineering heavily with **Java, Spring Boot, Hibernate, and RESTful APIs**.
@@ -62,5 +62,5 @@ I'm a **Java Backend Developer** based in İzmir, Turkey. I focus on building hi
   <a href="https://www.linkedin.com/in/ahmetbeskazalioglu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://medium.com/@ahmetbeskazalioglu"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://twitter.com/ahmetbeskazali"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:ahmetbeskazalioglu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:ahmet@beskazalioglu.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
