@@ -84,29 +84,31 @@
 
 <h2 align="center">📊 GitHub Stats & Contributions</h2>
 
-<picture style="display: block; margin: 0 auto; text-align: center;">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmetBeskazalioglu/AhmetBeskazalioglu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmetBeskazalioglu/AhmetBeskazalioglu/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AhmetBeskazalioglu/AhmetBeskazalioglu/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/>
-
 <div align="center">
-  <a href="https://github.com/AhmetBeskazalioglu">
-    <img src="https://github-readme-stats.vercel.app/api?username=AhmetBeskazalioglu&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="150" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/AhmetBeskazalioglu">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetBeskazalioglu&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="150" alt="Top Languages" />
-  </a>
-</div>
-<br/>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmetBeskazalioglu&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="150" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmetBeskazalioglu/AhmetBeskazalioglu/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmetBeskazalioglu/AhmetBeskazalioglu/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AhmetBeskazalioglu/AhmetBeskazalioglu/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/AhmetBeskazalioglu/count.svg?" alt="Profile Views" />
+  <a href="https://github.com/AhmetBeskazalioglu">
+    <img src="https://github-readme-stats.vercel.app/api?username=AhmetBeskazalioglu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/AhmetBeskazalioglu">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmetBeskazalioglu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AhmetBeskazalioglu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AhmetBeskazalioglu&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
