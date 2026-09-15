@@ -6,19 +6,19 @@
   <img src="https://komarev.com/ghpvc/?username=AhmetBeskazalioglu&color=000000&style=flat-square&label=VISITS" alt="Profile Views" />
 </div>
 
-<h2 align="left">Hi there! 👋</h2>
+<h2 align="left">Hi there! </h2>
 
 I'm a **Java Backend Developer**, **Software Engineer** at **Aglontech**, and an **MSc Computer Engineer Student** based in İzmir, Turkey. I focus on building highly scalable, secure, and robust applications. I'm passionate about clean architecture, deeply involved in database optimization, and I love designing complex microservices systems from the ground up.
 
-### 🔭 Current Focus
-- 💼 Engineering heavily with **Java, Spring Boot, Hibernate, and RESTful APIs**.
-- 🌱 Expanding my stack into the frontend world by mastering **React**.
-- 📝 Sharing my insights and tutorials through technical articles on [Medium](https://medium.com/@ahmetbeskazalioglu).
-- 🤝 Always open to discussing System Design, Cloud Computing, and open-source collaborations.
+###  Current Focus
+-  Engineering heavily with **Java, Spring Boot, Hibernate, and RESTful APIs**.
+-  Expanding my stack into the frontend world by mastering **React**.
+-  Sharing my insights and tutorials through technical articles on [Medium](https://medium.com/@ahmetbeskazalioglu).
+-  Always open to discussing System Design, Cloud Computing, and open-source collaborations.
 
 <br/>
 
-<h2 align="left">⚡ Technologies & Tools</h2>
+<h2 align="left"> Technologies & Tools</h2>
 
 > "Use the right tool for the job."
 
